@@ -1,0 +1,24 @@
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+*Variables
+Una variable es una forma de almacenar un valor para usar mas tarde.
+El valor puede ser reconfigurado y puede ser de cualquier tipo.
+
+*Strings
+Son un tipo de dato compuesto por bloques de texto, van entre comillas.
+
+*Funciones
+Son un tipo de objeto que realiza una acción, un argumento es una variable que ingresamos a la funcion para que la procese.
+Return es una declaración que indica que es lo que devuelve la función.
+
+*Declaraciones `if`
+Las declaraciones if verifican si algo es true y devuelven una acción especificada.
+
+*Valores booleanos
+Son un tipo de dato que pueden ser true o false.
+
