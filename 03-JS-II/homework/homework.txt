@@ -1,0 +1,11 @@
+* For
+For es una expresion utilizada para realizar bucles; hay una variable que va aumentando hasta que se cumple la condición y el bucle finaliza. Sirve para realizar operaciones en donde las expresiones precisen ser evaluadas de forma secuencial.
+
+*&&
+Es un operador booleano que significa "y" (and), sirve para combinar dos expresiones y dará un resultado (true o false).
+
+*||
+Es un operador booleano que significa "o" (or).
+
+*!
+Es un operador booleano que significa "negación" (not)
