@@ -1,0 +1,2 @@
+*Arrays
+Un array es un arreglo o conjunto de valores. Estos valores pueden ser de cualquier tipo. Para crear un array se los define con [].
