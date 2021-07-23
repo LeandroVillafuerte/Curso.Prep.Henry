@@ -1,0 +1,11 @@
+# Objetos
+Los objetos son una entidad que contienen datos; estos usan un concepto llamado clave:valor.
+# Propiedades
+Una propiedad en un objeto es un par clave valor. Se puede llamar a una propiedad con la notación de puntos o la notación de corchetes.
+# Métodos
+Un método es una función que establece un valor; de este modo se puede acceder a ellos mediante la clave del objeto.
+# Bucle for...in
+Sirve para iterar sobre cada par clave-valor de un objeto.
+# Notación de puntos y notación de corchetes.
+En la notacion de punto podemos escribir el nombre del objeto, un punto y el nombre de la clave, de este modo devolverá el valor. Es una forma literal de llamar al valor.
+En la notación de corchetes escribimos el nombre del objeto y entre corchetes un elemento que llame a una clave; la ventaja de este modo es que podemos escribir variables o funciones dentro de los corchetes.
