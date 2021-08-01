@@ -1,0 +1,5 @@
+* Prototype
+Es una propiedad de las clases por la cual todos los objetos de la clase comparten los mismos métodos.
+
+* Constructors (de Clase)
+Un constructors se puede utilizar al definir una clase y es una forma de heredar propiedades o métodos de otra clase.
