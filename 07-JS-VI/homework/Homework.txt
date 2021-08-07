@@ -1,0 +1,2 @@
+* Funciones Callbacks
+Son funciones que son pasadas como argumentos a otra funcion. Como convencion se utiliza cb para indicar el argumento que será una función.
